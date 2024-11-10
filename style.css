@@ -118,6 +118,9 @@ h1 {
   max-width: 1100px;
   margin: 0 auto;
 }
+.icon-part-container{
+  flex: 1;
+}
 .lip-logo {
   margin-bottom: 30px;
 }
