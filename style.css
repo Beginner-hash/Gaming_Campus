@@ -118,9 +118,6 @@ h1 {
   max-width: 1100px;
   margin: 0 auto;
 }
-.icon-part-container{
-  flex: 1;
-}
 .lip-logo {
   margin-bottom: 30px;
 }
@@ -209,6 +206,9 @@ h1 {
 }
 .main-news a:hover {
   color: rgb(180, 180, 1);
+}
+.list-icon-part {
+  flex: 1;
 }
 .main-news i {
   transform: translateX(5px);
